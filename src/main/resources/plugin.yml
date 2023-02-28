@@ -1,0 +1,10 @@
+name: FullEnchantmets
+version: '${project.version}'
+main: me.dr1zzy.fullenchantmets.FullEnchantmets
+api-version: 1.16
+prefix: FullEnchantments
+commands:
+  fe:
+    usage: /<command> <args>
+  tinker:
+    usage: /<command>
